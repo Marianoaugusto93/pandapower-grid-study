@@ -1,0 +1,11 @@
+pf,ambient_c,hosting_mw,limited_by
+0.95,40,5.25,overvoltage
+0.95,35,5.25,overvoltage
+0.95,30,5.25,overvoltage
+0.95,25,5.25,overvoltage
+0.95,20,5.25,overvoltage
+0.9,40,6.25,line thermal
+0.9,35,6.75,line thermal
+0.9,30,7.0,line thermal
+0.9,25,7.5,line thermal
+0.9,20,7.75,line thermal

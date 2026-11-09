@@ -1,0 +1,12 @@
+,value
+load_mw,44.742149999999995
+der_mw,1.71
+slack_mw,43.19650163906391
+losses_mw,0.16435163906420747
+vmin_pu,0.9469155307302415
+vmax_pu,1.03
+max_line_loading_pct,61.32775383113316
+violations_voltage,6.0
+violations_line_loading,0.0
+violations_trafo_loading,0.0
+violations_total,6.0
